@@ -1,0 +1,984 @@
+{
+   "META":{
+      "repoName":"Scarlet @MOXKIOS",
+      "repoIcon":"https://usescarlet.com/icon.png"
+   },
+   "Apps":[
+      {
+         "name":"KinoHome",
+         "bundleID":"com.aconcierge.app",
+         "dev":"KinoHome",
+         "version":"5.9.0",
+         "category":"Tweaked Apps",
+         "banner":"https://static11.tgcnt.ru/posts/_0/b5/b5e0b8e46b591ac7df74cf6ce69918da.jpg",
+         "down":"https://ithunder.ru/ipa/albank.ipa",
+         "description":"\u0410\u043b\u044c\u0444\u0430 \u0411\u0430\u043d\u043a\n\n- \u041f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0435 \u0443\u0434\u0430\u043b\u0435\u043d\u043e \u0438\u0437 AppStore",
+         "icon":"https://avatars.mds.yandex.net/get-socsnippets/5098582/2a0000018f30703a85d3c5c9e98572e9482d/square_83",
+         "screenshots":[
+            "",
+            "",
+            "",
+            ""
+         ],
+         "contact":{
+            "web":"https://t.me/ipafilescr"
+         }
+      },
+      {
+         "name":"Сбербанк",
+         "bundleIdentifier":"com.accountingonline.app",
+         "developerName":"AccountingOnline",
+         "version":"15.3.0",
+         "category":"Tweaked Apps",
+         "banner":"https://avatars.mds.yandex.net/get-altay/4336915/2a00000178db4324a4408706edd00cb5e5f6/XXXL",
+         "downloadURL":"https://ithunder.ru/ipa/sber.ipa",
+         "localizedDescription":"\u0421\u0431\u0435\u0440\u0431\u0430\u043d\u043a \u043e\u043d\u043b\u0430\u0439\u043d\n\n- \u041f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0435 \u0443\u0434\u0430\u043b\u0435\u043d\u043e \u0438\u0437 AppStore",
+         "iconURL":"https://static.teledb.net/bA63DDEC6eE1bBDC859Dc1BF2EBF5bB5/thumbnail_2024-02-17_06-30-56_7336439178252517380.jpg",
+         "screenshots":[
+            "https://static.rustore.ru/apk/462271/content/SCREENSHOT/693eab40-1764-4fab-b742-11d67d2bb0dc.png",
+            "https://static.rustore.ru/apk/462271/content/SCREENSHOT/5f421657-8905-4070-83a9-7fe20f781ff2.png",
+            "https://static.rustore.ru/apk/462271/content/SCREENSHOT/77e4aa69-6f01-4a7e-9c77-23facc3ea0ea.png",
+            "https://static.rustore.ru/apk/462271/content/SCREENSHOT/1a0896a5-0e46-4ec3-a6b1-9049003233d1.png"
+         ],
+         "contact":{
+            "web":"https://t.me/ipafilescr"
+         }
+      },
+      {
+         "name":"VK Reborn",
+         "bundleID":"com.vk.vkclient",
+         "dev":"V Kontakte OOO",
+         "banner":"https://cdnn21.img.ria.ru/images/07e4/05/1b/1572053879_0:81:1500:925_1920x0_80_0_0_0b09479b05c411f281fecbe34d538d96.jpg",
+         "version":"8.76.1",
+         "category":"Tweaked Apps",
+         "down":"https://ithunder.ru/ipa/vk.ipa",
+         "description":"Убрать лимит музыки - Скрыть рекламу - NSFW (позволяет убрать метку 18+ на каналах и страницах)- Убрать рекламу в видео - Отключение безопасных ссылок - Отключение реакций - Отключение рекомендаций - Не читать истории- Отключить «Печатает»- Обход Детекта «Позволяет обходить отслеживание скриншота (Без уведомления участнику чата)- Многое другое",
+         "icon":"https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c2/2f/2e/c22f2e0f-8b02-0647-78d2-5aefe4ff447a/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/230x0w.webp",
+         "screenshots":[
+            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/b8/6a/2b/b86a2b31-f332-20ad-2d16-85bd5c34cd8b/450b83c9-1567-4427-8d7e-259e1c344745_01-RU.jpg/230x0w.webp",
+            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/16/1c/ba/161cba5f-bd20-ff4a-f578-58f3daee3ab5/9844a050-ce67-403d-ba7b-dd60d85e4356_02-RU.jpg/230x0w.webp",
+            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/8a/46/22/8a4622ea-a597-f1d7-fae2-904b3b81779a/bc0d61fd-da40-46c9-bb50-edccc236058b_03-RU.jpg/230x0w.webp",
+            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/94/06/df/9406dfda-eb01-19b2-59cf-977e044166a1/508e1511-96ba-49db-ae88-b3457386bdd7_IOS_top_2.jpg/230x0w.webp"
+         ],
+         "contact":{
+            "web":"https://t.me/ipafilescr"
+         }
+      },
+      {
+         "name":"Тинькофф",
+         "bundleIdentifier":"ru.tcsbank.mobileclient",
+         "developerName":"TCSMBiPhone",
+         "version":"6.13.5",
+         "category":"Tweaked Apps",
+         "banner":"https://texterra.ru/upload/iblock/9bd/g22fgpe8k192tq31licq8ff9w8kzfdng/soc_seti.webp",
+         "versionDate":"2024-02-17",
+         "downloadURL":"https://ithunder.ru/ipa/tinkoff.ipa",
+         "localizedDescription":"\u0422\u0438\u043d\u044c\u043a\u043e\u0444\u0444 \u0411\u0430\u043d\u043a\n\n- \u041f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0435 \u0443\u0434\u0430\u043b\u0435\u043d\u043e \u0438\u0437 AppStore",
+         "iconURL":"https://acdn.tinkoff.ru/static/pages/files/d39e9d26-fd5e-4574-9ad3-c3f2fc102598.png",
+         "screenshots":[
+            "https://freesoft.ru/storage/images/791/7907/790619/790619_thumb.png",
+            "https://freesoft.ru/storage/images/791/7907/790620/790620_thumb.png",
+            "https://freesoft.ru/storage/images/791/7907/790621/790621_thumb.png",
+            "https://freesoft.ru/storage/images/791/7907/790622/790622_thumb.png"
+         ],
+         "contact":{
+            "web":"https://t.me/ipafilescr"
+         }
+      },
+      {
+         "name":"Альфабанк",
+         "bundleID":"com.aconcierge.app",
+         "dev":"AConcierge",
+         "version":"12.22",
+         "category":"Tweaked Apps",
+         "down":"https://ithunder.ru/ipa/albank.ipa",
+         "description":"\u0410\u043b\u044c\u0444\u0430 \u0411\u0430\u043d\u043a\n\n- \u041f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0435 \u0443\u0434\u0430\u043b\u0435\u043d\u043e \u0438\u0437 AppStore",
+         "icon":"https://static.teledb.net/C6AEE45a9558eCBFAAD74B7678Ebf44e/thumbnail_2024-02-17_06-05-04_7336432512463273988.jpg",
+         "screenshots":[
+            "",
+            "",
+            "",
+            ""
+         ],
+         "contact":{
+            "web":"https://t.me/ipafilescr"
+         }
+      },
+      {
+         "name":"Совкомбанк",
+         "bundleIdentifier":"ru.halvacard",
+         "developerName":"Sovcombank",
+         "version":"6.4.1",
+         "category":"Tweaked Apps",
+         "versionDate":"2024-02-17",
+         "downloadURL":"http://dl.teledb.net/7513/%D0%A1%D0%BE%D0%B2%D0%BA%D0%BE%D0%BC%D0%91%D0%B0%D0%BD%D0%BA.ipa?auth=a2e84b",
+         "localizedDescription":"\u0421\u043e\u0432\u043a\u043e\u043c\u0411\u0430\u043d\u043a\n\n- \u041f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0435 \u0443\u0434\u0430\u043b\u0435\u043d\u043e \u0438\u0437 AppStore",
+         "iconURL":"https://static.teledb.net/8e9D4e12ce1b02dfcdaEaF672db7CA9d/thumbnail_2024-02-17_06-06-48_7336432959139872772.jpg",
+         "screenshots":[
+            "",
+            "",
+            "",
+            ""
+         ],
+         "contact":{
+            "web":"https://t.me/ipafilescr"
+         }
+      },
+      {
+         "name":"Nicegram",
+         "bundleIdentifier":"app.nicegram",
+         "developerName":"Appvillis",
+         "category":"Tweaked Apps",
+         "version":"1.4.6",
+         "banner":"https://www.droidopinions.com/wp-content/uploads/2023/07/Fx8ss6HaUAQsqvs.jpg",
+         "downloadURL":"https://ipa.sierra.app/ipa/Nicegram.ipa",
+         "localizedDescription":"\u041c\u043e\u0434\u0438\u0444\u0438\u043a\u0430\u0446\u0438\u044f Telegram\n\n- \u0410\u043a\u0442\u0438\u0432\u0438\u0440\u043e\u0432\u0430\u043d\u0430 \u043f\u043e\u0434\u043f\u0438\u0441\u043a\u0430 Nicegram \u0434\u043b\u044f \u0431\u044b\u0441\u0442\u0440\u043e\u0433\u043e \u043f\u0435\u0440\u0435\u0432\u043e\u0434\u0430",
+         "iconURL":"https://static.teledb.net/d1aFcf46da28A1Fc72f20c5A32E2a9aD/thumbnail_2024-02-17_06-09-15_7336433590500065284.jpg",
+         "screenshots":[
+            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/94/4a/53/944a53dc-80af-5d2e-6bd6-0b3ea9fdbe1c/e3bbea05-d896-4835-9728-c915f2634c6e_1.jpg/230x0w.webp",
+            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/b8/80/48/b8804852-8e54-111a-7c29-bb7532708262/7d9327e5-91da-4789-8673-a750687ee905_2.jpg/230x0w.webp",
+            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/d0/1e/2d/d01e2d90-4fd5-145f-528e-dfc134cf465a/98469aa0-4f53-45d4-bad6-8a8b67d801e0_3-1.jpg/230x0w.webp",
+            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/39/25/f2/3925f2c4-d934-acaf-e1a6-00f090d2abab/c35694a0-d5d7-46ad-b7a5-5b8f71f53442_4.jpg/230x0w.webp"
+         ],
+         "contact":{
+            "web":"https://t.me/ipafilescr"
+         }
+      },
+      {
+         "name":"Spotify Premium",
+         "bundleIdentifier":"com.spotify.client",
+         "developerName":"Spotify",
+         "version":"8.8.96",
+         "category":"Tweaked Apps",
+         "banner":"https://i.pinimg.com/originals/9f/09/54/9f0954d7b277e13a0821a416e1b94eb3.jpg",
+         "downloadURL":"https://github.com/apptesters-org/Repo/releases/download/13-01-2024/Spotify_8.8.96_Premium_%40thisismanpreets_apptesters.org.ipa",
+         "localizedDescription":"Spotify Premium\n\n- \u0410\u043a\u0442\u0438\u0432\u0438\u0440\u043e\u0432\u0430\u043d\u0430 \u043f\u043e\u0434\u043f\u0438\u0441\u043a\u0430",
+         "iconURL":"https://static.teledb.net/c9BbbFEe9DFAF2fe9E3Bf5FA61a2debB/thumbnail_2024-02-17_06-23-10_7336437176797757444.jpg",
+         "screenshots":[
+            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/08/83/de/0883de6b-4615-4a41-0013-eaac0b258345/0265ec5e-b9ac-4c2f-9d95-2de3f284b0ec_IOS_-_6.7_-_S01_-_EN-US.png/230x0w.webp",
+            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/ec/b4/2b/ecb42b34-b289-095c-1891-0ed03bb57cc4/e6c4993b-f6e2-4b07-873d-afcb011acb30_IOS_-_6.7_-_S02_-_EN-US.png/230x0w.webp",
+            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/e2/b6/f4/e2b6f400-4342-02d6-1d11-2a8fc7c123d7/5953db43-4430-425a-9228-911aa8e783b9_IOS_-_6.7_-_S03_-_EN-US.png/230x0w.webp",
+            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/27/bf/37/27bf3762-d85e-e603-ab60-883bb6508eaa/1c9b59de-280b-4a8b-b571-47fd96546e62_IOS_-_6.7_-_S04_-_EN-US.png/230x0w.webp"
+         ],
+         "contact":{
+            "web":"https://t.me/ipafilescr"
+         }
+      },
+      {
+         "name":"Picsart GOLD",
+         "bundleIdentifier":"com.picsart.studio",
+         "developerName":"PicsArt Inc.",
+         "version":"24.8.2",
+         "banner":"https://www.iguides.ru/upload/iblock/364/364536fd299a121dcbf197dd72f79e05.jpg",
+         "category":"Tweaked Apps",
+         "downloadURL":"https://github.com/apptesters-org/Repo/releases/download/05-05-2024/Picsart_24.8.2_Gold_%40thisismanpreets_apptesters.org.ipa",
+         "localizedDescription":"\u00a9 PicsArt Gold\n\n\ud83d\udcf1 \u041e\u0431\u043d\u043e\u0432\u043b\u0435\u043d\u0430 \u0434\u043e \u043f\u043e\u0441\u043b\u0435\u0434\u043d\u0435\u0439 \u0432\u0435\u0440\u0441\u0438\u0438 \u0432 AppStore\n\n\ud83d\udd16 \u041f\u0440\u0435\u0438\u043c\u0443\u0449\u0435\u0441\u0442\u0432\u0430 / \u041e\u0441\u043e\u0431\u0435\u043d\u043d\u043e\u0441\u0442\u0438 \u0432\u0437\u043b\u043e\u043c\u0430:\n- \u0410\u043a\u0442\u0438\u0432\u0438\u0440\u043e\u0432\u0430\u043d\u0430 \u043f\u043e\u0434\u043f\u0438\u0441\u043a\u0430 Gold (\u0417\u0430\u0439\u0434\u0438\u0442\u0435 \u0432 \u0443\u0447\u0435\u0442\u043d\u0443\u044e \u0437\u0430\u043f\u0438\u0441\u044c GOOGLE \u0432\u043d\u0443\u0442\u0440\u0438 \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u044f)",
+         "iconURL":"https://static.teledb.net/3d00Bd07Aca38640e7E4bBbB75AD349e/thumbnail_2024-02-21_10-13-50_7337980959842631692.jpg",
+         "screenshots":[
+            "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/74/da/12/74da129a-a1aa-1541-5f00-2be6df9e67b3/c94783fa-e820-4ab4-8fec-0178bbbb8987_01_2048_x_2732_px_-_All_in_one___CR465.__U005bRU_U005d__U005bASO_U005d_App_Store_Screens.jpg/313x0w.webp",
+            "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/58/4d/b8/584db807-9e0f-6d7b-8fcf-0efa97b52436/86782543-60e1-4297-9010-5100ab57bc3b_02_2048_x_2732_px_-__Video_Editor___CR465.__U005bRU_U005d__U005bASO_U005d_App_Store_Screens.jpg/313x0w.webp",
+            "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/a1/ad/c4/a1adc457-a6df-2625-17ad-5a071ee13a60/d1658067-3a77-4af9-8413-f47dc15e52e7_03_2048_x_2732_px_-_Change_bg___CR465.__U005bRU_U005d__U005bASO_U005d_App_Store_Screens.jpg/313x0w.webp",
+            "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/5a/c5/11/5ac51113-fd2d-ab41-36cb-97bbd8a47d93/e8f09ea2-111a-4f4c-a7fb-72edb5a2433a_04_2048_x_2732_px_-_Stickers___CR465.__U005bRU_U005d__U005bASO_U005d_App_Store_Screens.jpg/313x0w.webp"
+         ],
+         "contact":{
+            "web":"https://t.me/ipafilescr"
+         }
+      },
+      {
+         "name":"TikTok Mod",
+         "bundleIdentifier":"com.zhiliaoapp.musicallybhplus",
+         "developerName":"TikTok Ltd.",
+         "version":"33.4.0",
+         "category":"Tweaked Apps",
+         "banner":"https://as2.ftcdn.net/v2/jpg/03/47/89/09/1000_F_347890952_IOyVsi89hF1uZ7to94jgUY9O040gGeCO.jpg",
+         "downloadURL":"https://ithunder.ru/ipa/tiktok.ipa",
+         "localizedDescription":"TikTok MOD - это глобальное видеосообщество. Здесь вы найдете классные короткие видео и сможете поделиться яркими моментами из собственной жизни со всем миром. Снимайте оригинальный контент с масками, фильтрами и стикерами. Жизнь пролетает быстро — каждая секунда на счету! | \u041c\u043e\u0434\u0438\u0444\u0438\u043a\u0430\u0446\u0438\u044f \n\n- \u041b\u043e\u043a\u0430\u043b\u0438\u0437\u0430\u0446\u0438\u044f \u043d\u0430 \u0440\u0443\u0441\u0441\u043a\u0438\u0439 \u044f\u0437\u044b\u043a \n- \u0421\u043e\u0445\u0440\u0430\u043d\u0435\u043d\u0438\u0435 \u0444\u043e\u0442\u043e \u0431\u0435\u0437 \u0412\u0417\n- \u0421\u043c\u0435\u043d\u0430 \u0420\u0435\u0433\u0438\u043e\u043d\u0430 (\u043c\u043d\u043e\u0433\u043e \u0441\u0442\u0440\u0430\u043d)\n- \u0423\u0431\u0440\u0430\u0442\u044c \u0440\u0435\u043a\u043b\u0430\u043c\u0443 \n- \u0412\u044b\u043a\u043b\u044e\u0447\u0438\u0442\u044c \u0442\u0440\u0430\u043d\u0441\u043b\u044f\u0446\u0438\u0438 \n- \u0418 \u043c\u043d\u043e\u0433\u043e\u0435 \u0434\u0440\u0443\u0433\u043e\u0435",
+         "iconURL":"https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9c/b2/cb/9cb2cbf4-9ddc-c2b4-9570-88720cc70a20/AppIcon_TikTok-0-0-1x_U007epad-0-0-0-85-220.png/230x0w.webp",
+         "screenshots":[
+            "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/59/d9/5e/59d95ef4-3789-2355-7b35-24741e673765/c5e6ef46-bf45-48c5-be92-eaea030cce31_img6_5_0_ru.jpg/230x0w.webp",
+            "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/e1/c9/b4/e1c9b4ee-6bd6-e799-d694-5c1ecc442dc1/3e702735-ceb6-42f0-80ad-df8381cbbbd5_img6_5_1_ru.jpg/230x0w.webp",
+            "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/89/7e/88/897e88c6-af77-ca85-0fda-9bed07d7483f/c3eee8c8-b4d4-4b04-a0ce-a0a4b41f876b_img6_5_2_ru.jpg/230x0w.webp",
+            "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/69/46/14/694614df-2775-6028-e0d2-ef7e7de4d9af/0868bbca-d214-4c60-9926-fc3202da3490_img6_5_4_ru.jpg/230x0w.webp"
+         ],
+         "contact":{
+            "web":"https://t.me/ipafilescr"
+         }
+      },
+      {
+         "name":"VPN TorBrowser Pro",
+         "bundleIdentifier":"ch.b-eng.tor",
+         "developerName":"STELLAR APPS LIMITED",
+         "version":"3.4.10",
+         "versionDate":"2024-02-17",
+         "category":"Приложения",
+         "downloadURL":"https://ithunder.ru/ipa/(VPN)TorBrowser[3.4.16].ipa",
+         "localizedDescription":"VPN TorBrowser Hack\n\n\u2014 \u0410\u043a\u0442\u0438\u0432\u0438\u0440\u043e\u0432\u0430\u043d\u0430 \u043f\u043e\u0434\u043f\u0438\u0441\u043a\u0430 Pro",
+         "iconURL":"https://static.teledb.net/7cDbaeEcFeDfbff4EDdE724d6FDBd9F8/thumbnail_2024-02-17_06-16-05_7336435351436656644.jpg",
+         "screenshots":[
+            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/d7/f2/23/d7f2236b-b3fa-f424-3d1f-b9e63c00c3d6/c9082dd2-4462-4901-8129-f2cd22301338_1__U00281_U0029.jpg/230x0w.webp",
+            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/83/fd/3a/83fd3acc-4c82-ecbc-22f3-3af352d6af0d/0550d0f9-0217-4672-998c-d62f246288b6_2__U00281_U0029.jpg/230x0w.webp",
+            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/b3/73/6a/b3736a60-7732-626c-05a9-a211c67195ff/4c264f00-2530-4201-b9fb-0ff62d362ef2_3.jpg/230x0w.webp",
+            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/87/5a/1f/875a1fde-3883-b297-0e23-a083d579cc6a/7fa79c0e-b3a8-4a20-a5d8-480a36f22bb7_5.jpg/230x0w.webp"
+         ],
+         "contact":{
+            "web":"https://t.me/ipafilescr"
+         }
+      },
+      {
+         "name":"МТС БАНК",
+         "bundleIdentifier":"ru.mts.money",
+         "developerName":"MTC",
+         "version":"1.62.0",
+         "category":"Tweaked Apps",
+         "versionDate":"2024-02-17",
+         "downloadURL":"http://dl.teledb.net/7520/MtsMoney+-+%5Bv1.62.0%5D.ipa?auth=dc7443",
+         "localizedDescription":"\u041c\u0422\u0421 \u0411\u0430\u043d\u043a \n\n- \u041f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0435 \u0443\u0434\u0430\u043b\u0435\u043d\u043e \u0438\u0437 AppStore",
+         "iconURL":"https://static.teledb.net/e26d38e05addC4328604ef464d7daa99/thumbnail_2024-02-17_06-25-03_7336437662129061892.jpg",
+         "screenshots":[
+            "",
+            "",
+            "",
+            ""
+         ],
+         "contact":{
+            "web":"https://t.me/ipafilescr"
+         }
+      },
+      {
+         "name":"YouTube Premium",
+         "bundleIdentifier":"com.google.ios.youtube",
+         "developerName":"Google",
+         "version":"19.18.2",
+         "banner":"https://w.forfun.com/fetch/4f/4f101c1323fe8703d6d3652c7d23421d.jpeg",
+         "category":"Tweaked Apps",
+         "downloadURL":"https://github.com/apptesters-org/Repo/releases/download/05-05-2024/Youtube_19.18.2_LatestCommit_%40thisismanpreets_apptesters.org.ipa",
+         "localizedDescription":"\u041c\u043e\u0434\u0438\u0444\u0438\u043a\u0430\u0446\u0438\u044f YouTube\n\n\u258e\u041f\u0440\u043e\u043f\u0443\u0441\u043a \u0440\u0435\u043a\u043b\u0430\u043c\u044b \n\u258e\u041a\u0430\u0440\u0442\u0438\u043d\u043a\u0430 \u0432 \u043a\u0430\u0440\u0442\u0438\u043d\u043a\u0435 \n\u258e\u041c\u043d\u043e\u0433\u043e \u0434\u0440\u0443\u0433\u0438\u0445 \u0444\u0443\u043d\u043a\u0446\u0438\u0439",
+         "iconURL":"https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bc/a2/e6/bca2e652-d0e8-e33a-df02-1accc72e766d/logo_youtube_color-1x_U007emarketing-0-6-0-0-85-220-0.png/230x0w.webp",
+         "screenshots":[
+            "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/30/a2/6e/30a26eff-7ecc-5084-9a2d-58ff32359d08/2b5fb1f2-e7d3-43da-95bc-aa246bc73d96_iOS-6.5-in_1.jpg/230x0w.webp",
+            "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/03/22/ea/0322eabe-26d5-4b29-6cab-3808c4ca3714/b7a80105-6d6a-418d-9e8e-5b601d801d24_iOS-6.5-in_3.jpg/230x0w.webp",
+            "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/4c/58/10/4c5810cc-4971-85da-f64c-56c7b6a46a0c/18b59c3d-87c4-4624-9b26-fbcb017f88a4_iOS-6.5-in_5.jpg/230x0w.webp",
+            "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/70/d9/3e/70d93e61-6b90-cad4-2418-4d84e38f1579/1956295f-acc2-4311-b810-ba38675349db_iOS-6.5-in_4.jpg/230x0w.webp"
+         ],
+         "contact":{
+            "web":"https://t.me/ipafilescr"
+         }
+      }
+   ],
+   "Emulators":[
+      
+   ],
+   "Tweaked":[
+      {
+         "name":"ЮMoney",
+         "bundleIdentifier":"ru.yoo.money11",
+         "developerName":"\u042eMoney",
+         "version":"11.12.0",
+         "category":"Удалено с AppStore",
+         "versionDate":"2024-02-17",
+         "downloadURL":"https://ithunder.ru/ipa/Money[11.12.0].ipa",
+         "localizedDescription":"\u042eMoney\n\n- \u041f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0435 \u0434\u043b\u044f \u0434\u0443\u0431\u043b\u0438\u043a\u0430\u0442\u0430",
+         "iconURL":"https://static.teledb.net/Bf566df68BFAeE6fDAA9Cc1758bdCdCF/thumbnail_2024-02-17_06-26-08_7336437941301936132.jpg",
+         "screenshots":[
+            "",
+            "",
+            "",
+            ""
+         ],
+         "contact":{
+            "web":"https://t.me/ipafilescr"
+         }
+      },
+      {
+         "name":"Instagram Rocket",
+         "bundleIdentifier":"com.burbn.instagram653",
+         "developerName":"Instagram",
+         "version":"317.0.4",
+         "category":"Социальные сети",
+         "banner":"https://w.forfun.com/fetch/4f/4f101c1323fe8703d6d3652c7d23421d.jpeg",
+         "downloadURL":"https://ipa.sierra.app/ipa/Instagram.ipa",
+         "localizedDescription":"\u041c\u043e\u0434\u0438\u0444\u0438\u043a\u0430\u0446\u0438\u044f \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u044f Instagram\n\n\u258e\u0421\u043a\u0430\u0447\u0438\u0432\u0430\u043d\u0438\u0435 \u0444\u043e\u0442\u043e, \u0432\u0438\u0434\u0435\u043e \u0438 \u0441\u0442\u043e\u0440\u0438\u0441;\n\u258e\u0411\u0435\u0437 \u0440\u0435\u043a\u043b\u0430\u043c\u044b;\n\u258e\u0410\u043d\u043e\u043d\u0438\u043c\u043d\u044b\u0439 \u043f\u0440\u043e\u0441\u043c\u043e\u0442\u0440 \u0441\u0442\u043e\u0440\u0438\u0441;\n\u258e\u041e\u0442\u043a\u043b\u044e\u0447\u0435\u043d\u0438\u0435 \u043e\u0442\u0447\u0435\u0442\u043e\u0432 \u043e \u043f\u0440\u043e\u0447\u0442\u0435\u043d\u0438\u0438 \u0441\u043c\u0441 \u0438 \u0441\u043a\u0440\u0438\u043d\u0448\u043e\u0442\u0430\u0445;\n\u258e\u0421\u043a\u0430\u0447\u0438\u0432\u0430\u043d\u0438\u0435 \u0433\u043e\u043b\u043e\u0441\u043e\u0432\u044b\u0445 (\u0443\u0434\u0435\u0440\u0436\u0438\u0442\u0435 \u0433\u043e\u043b\u043e\u0441\u043e\u0432\u043e\u0435 \u0441\u043c\u0441 \u0434\u043b\u044f \u0437\u0430\u0433\u0440\u0443\u0437\u043a\u0438)\n\u258e\u0420\u0430\u0441\u0448\u0438\u0440\u0435\u043d\u0438\u0435 \u0434\u043b\u044f \u043e\u0442\u043a\u0440\u044b\u0442\u0438\u044f \u0441\u0441\u044b\u043b\u043e\u043a \u0432 \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0438 (\u0430\u043a\u0442\u0438\u0432\u0438\u0440\u0443\u0439\u0442\u0435 \u0432 Safari - \u0423\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u0435 \u0440\u0430\u0441\u0448\u0438\u0440\u0435\u043d\u0438\u044f\u043c\u0438)",
+         "iconURL":"https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b2/f6/22/b2f62203-77c3-56d8-154a-c4200df413ce/Prod-0-0-1x_U007emarketing-0-7-0-85-220.png/230x0w.webp",
+         "screenshots":[
+            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/27/d4/e9/27d4e967-76c4-2376-b806-21bf9768377f/9812d4ae-38c2-45ce-8818-d523b841b5e0_3_iOS_6.7.jpg/230x0w.webp",
+            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ff/80/36/ff8036ef-d2ef-e925-66fd-f04537886abf/544105ea-d501-40ab-ada8-ef4c61d0e570_4_iOS_6.7.jpg/230x0w.webp",
+            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b9/75/32/b97532ca-9154-c5f1-3dab-2c2cb38b0290/0fd3257d-2288-46c9-8dd2-2572f3f9c5d3_6_iOS_6.7.jpg/230x0w.webp",
+            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e7/7c/7c/e77c7c9b-fd0b-5901-fc13-16940cd79c31/6d1c1189-0f7a-47e6-8e58-5463935e3fdc_5_iOS_6.7.jpg/230x0w.webp"
+         ],
+         "contact":{
+            "web":"https://t.me/ipafilescr"
+         }
+      },
+      {
+         "name":"Scarlet",
+         "bundleIdentifier":"com.DebianArch.ScarletPersonalXYZZZ",
+         "developerName":"DebianArch",
+         "version":"1.3",
+         "category":"Разработчик",
+         "versionDate":"2024-02-17",
+         "downloadURL":"https://repos.moxki.ru/scarlet.ipa",
+         "localizedDescription":"Это стандартная версия Scarlet. Она позволяет настраивать и загружать дополнительные приложения, а также импортировать собственные сертификаты или использовать платную учетную запись разработчика полностью без использования компьютера.",
+         "iconURL":"https://usescarlet.com/icon.png",
+         "banner":"https://recenterk.ru/wp-content/uploads/2023/08/Scarlet-iOS-download.jpg",
+         "screenshots":[
+            "https://repos.moxki.ru/1s.png",
+            "https://repos.moxki.ru/2s.png",
+            "https://repos.moxki.ru/3s.png"
+         ],
+         "contact":{
+            "web":"https://t.me/moxkios"
+         }
+      },
+      {
+         "name":"Peachy: Ai Face & Body",
+         "bundleIdentifier":"com.camerasideas.Peachy",
+         "developerName":"FaceEdit",
+         "version":"1.49.1",
+         "versionDate":"2024-02-17",
+         "category":"Редакторы",
+         "downloadURL":"https://github.com/apptesters-org/Repo/releases/download/19-03-2024/Peachy_1.49.1_ProFeaturesUnlocked_%40thisismanpreets_apptesters.org.ipa",
+         "localizedDescription":"Peachy: Ai Face & Body \n\nPeachy \u043f\u0440\u0435\u0434\u043e\u0441\u0442\u0430\u0432\u043b\u044f\u0435\u0442 \u043c\u043d\u043e\u0436\u0435\u0441\u0442\u0432\u043e \u0444\u0443\u043d\u043a\u0446\u0438\u0439 \u0440\u0435\u0434\u0430\u043a\u0442\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f \u043f\u043e\u0440\u0442\u0440\u0435\u0442\u043e\u0432 \u0438 \u0441\u0430\u043c\u043e\u0443\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u0439.\n\n- \u041f\u043e\u0434\u043f\u0438\u0441\u043a\u0430 \u0430\u043a\u0442\u0438\u0432\u0438\u0440\u043e\u0432\u0430\u043d\u0430",
+         "iconURL":"https://static.teledb.net/BB6ABDa8AbDda17B6Fb7AB8126b8DFBF/thumbnail_2024-02-17_06-58-23_7336446252063653892.jpg",
+         "screenshots":[
+            "",
+            "",
+            "",
+            ""
+         ],
+         "contact":{
+            "web":"https://t.me/ipafilescr"
+         }
+      },
+      {
+         "name":"Veed Captions",
+         "bundleIdentifier":"io.veed.appstore",
+         "developerName":"Veed Captions",
+         "version":"3.1.0",
+         "versionDate":"2024-02-21",
+         "category":"Редакторы",
+         "downloadURL":"https://ithunder.ru/ipa/VeedCaptions[3.4.0].ipa",
+         "localizedDescription":"Veed Captions | Premium\n\n- \u0444\u0443\u043d\u043a\u0446\u0438\u0438 \u043f\u043e\u0434\u043f\u0438\u0441\u043a\u0438 \u0432\u0437\u043b\u043e\u043c\u0430\u043d\u044b",
+         "iconURL":"https://static.teledb.net/7519AF4408aF1cABf0ed55aF8F6CBA5B/thumbnail_2024-02-21_10-09-27_7337979830266232836.jpg",
+         "screenshots":[
+            "",
+            "",
+            "",
+            ""
+         ],
+         "contact":{
+            "web":"https://t.me/ipafilescr"
+         }
+      },
+      {
+         "name":"Funimate Pro",
+         "bundleIdentifier":"com.avcr.Funimate",
+         "developerName":"Funimate",
+         "version":"16.3.1",
+         "versionDate":"2024-02-21",
+         "category":"Редакторы",
+         "downloadURL":"https://github.com/apptesters-org/Repo/releases/download/23-02-2024/Funimate_16.3.1_ProFeaturesUnlocked_%40thisismanpreets_apptesters.org.ipa",
+         "localizedDescription":"\ud83c\uddf7\ud83c\uddfa \u0418\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u044f \u043e \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0438 \u043d\u0430 \u0440\u0443\u0441\u0441\u043a\u043e\u043c \u044f\u0437\u044b\u043a\u0435 \n\n\u041d\u0430\u0437\u0432\u0430\u043d\u0438\u0435: Funimate Video Editor & Maker\n\u0412\u0435\u0440\u0441\u0438\u044f: 6.12.1\n\n\u041e\u0441\u043e\u0431\u0435\u043d\u043d\u043e\u0441\u0442\u0438:\n\n\u2014 \u0410\u043a\u0442\u0438\u0432\u0438\u0440\u043e\u0432\u0430\u043d\u0430 \u043f\u043e\u0434\u043f\u0438\u0441\u043a\u0430 \"\u041f\u0440\u043e\"\n\u2014 \u0420\u0430\u0437\u0431\u043b\u043e\u043a\u0438\u0440\u043e\u0432\u0430\u043d\u044b \u0438\u043d\u0441\u0442\u0440\u0443\u043c\u0435\u043d\u0442\u044b AI\n\u2014 \u0411\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u0430\u044f \u043f\u043e\u043a\u0443\u043f\u043a\u0430 \u043a\u0440\u0435\u0434\u0438\u0442\u043e\u0432",
+         "iconURL":"https://static.teledb.net/3cFdd586Cf53f9aB41fFbC7de5Aa0EA5/thumbnail_2024-02-21_10-16-21_7337981608382693396.jpg",
+         "screenshots":[
+            "",
+            "",
+            "",
+            ""
+         ],
+         "contact":{
+            "web":"https://t.me/ipafilescr"
+         }
+      },
+      {
+         "name":"LastDayOnEarth",
+         "bundleID":"zombie.survival.craft.z",
+         "bundleIdentifier":"zombie.survival.craft.z",
+         "version":"1.22.0",
+         "category":"Игры",
+         "down":"https://github.com/apptesters-org/Repo/releases/download/19-03-2024/LastDayOnEarth_1.22.0_HackFeatures_%40thisismanpreets_apptesters.org.ipa",
+         "developerName":"Kefir",
+         "banner":"https://avatars.mds.yandex.net/i?id=af633ab4077cf5708c7808a6448a13869b707267-8428826-images-thumbs&n=13",
+         "localizedDescription":"|MOD| Представьте, что вы проснулись во время апокалипсиса в шутере на выживание Last Day on Earth. Почувствуйте ужас и прилив адреналина от процесса реального выживания в суровых условиях! Познакомьтесь с миром, где инстинкт орды зомби убить вас так же силен, как жажда или голод. Окунитесь в атмосферу выживания прямо сейчас или начните Последний день на Земле, как только закончите читать это описание, в котором я собираюсь рассказать вам о некоторых ключевых особенностях.",
+         "icon":"https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f8/ad/88/f8ad8836-16c7-0f64-7359-524866b5084d/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/246x0w.webp",
+         "screenshots":[
+            "",
+            "",
+            "",
+            ""
+         ],
+         "contact":{
+            "web":"https://t.me/ipafilescr"
+         }
+      },
+      {
+         "name":"Remini Pro",
+         "bundleIdentifier":"com.bigwinepot.nwdn.international",
+         "developerName":"Bending Spoons Apps ApS",
+         "version":"2.10.17",
+         "versionDate":"2024-02-21",
+         "category":"Остальное",
+         "downloadURL":"https://github.com/apptesters-org/Repo/releases/download/08-04-2024/Remini_2.10.17_ProFeaturesUnlocked_%40thisismanpreets_apptesters.org.ipa",
+         "localizedDescription":"ProFeaturesUnlocked",
+         "iconURL":"https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/82/b9/ba/82b9baf3-ae56-63d2-8b5b-336638fbcf65/AppIcon-0-0-1x_U007epad-0-85-220.png/246x0w.webp",
+         "screenshots":[
+            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/66/1c/cf/661ccfd5-7489-c711-1f8a-b3c5b55db022/36f5b1ab-3159-4f8a-839c-86756e8a78fb_1.jpg/230x0w.webp",
+            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e5/71/4b/e5714bf0-c5ee-d549-87b5-6a744f711714/cd244f9e-728d-4150-b19e-3e5250fac9ff_2.jpg/230x0w.webp",
+            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8b/7b/b8/8b7bb8c1-e49a-07bc-4530-7d3069f3628a/47a90bed-6058-4d9a-b808-b230af21207a_3.jpg/230x0w.webp",
+            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/80/49/fa/8049fafc-4db8-69a4-50bf-f4d51386a9b6/b718dcfe-03e6-4b91-8186-445777cf0e39_4.jpg/230x0w.webp"
+         ],
+         "contact":{
+            "web":"https://t.me/ipafilescr"
+         }
+      },
+      {
+         "name":"PhotoRoom Business",
+         "bundleIdentifier":"com.dr1ven.eraser",
+         "developerName":"PhotoRoom",
+         "version":"5.7.1",
+         "versionDate":"2024-02-21",
+         "category":"Редакторы",
+         "downloadURL":"https://ithunder.ru/ipa/PhotoRoomPro[5.9.1].ipa",
+         "localizedDescription":"PhotoRoom Business \nVersion: 5.7.1\n\n\u2714\ufe0f \u0410\u043a\u0442\u0438\u0432\u0438\u0440\u043e\u0432\u0430\u043d\u0430 \u043f\u043e\u0434\u043f\u0438\u0441\u043a\u0430 Business",
+         "iconURL":"https://static.teledb.net/C84f13Ea6bC2467f112BECd6CA1A8DFf/thumbnail_2024-02-21_10-17-08_7337981810246156396.jpg",
+         "screenshots":[
+            "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/9a/79/26/9a7926d3-ff43-fcd4-6fdc-0e75bffbdf41/54d4019e-c6d4-4302-afaa-e268c61fc2f5_01_iphone_X.png/230x0w.webp",
+            "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/ac/17/cd/ac17cd17-b5d6-d352-17f4-c5079277a305/56721625-ae1a-46ff-8b3d-977810d7e78b_09_iphone_X.png/230x0w.webp",
+            "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/68/d0/79/68d0795a-b830-3f5a-72bf-4a13096d0602/52f9fd1a-dcbd-46e7-9174-bdef1c283235_RU.png/230x0w.webp",
+            "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/f6/0c/f4/f60cf4bd-0750-f69b-6f65-21cba8d9514e/5bc5ed5c-fe77-43e3-b15d-18a66fcc3d35_02_iphone_X.png/230x0w.webp"
+         ],
+         "contact":{
+            "web":"https://t.me/ipafilescr"
+         }
+      }
+   ],
+   "Hacked Games":[
+      {
+         "name":"Minecraft",
+         "bundleIdentifier":"com.mojang.minecraftpe",
+         "developerName":"Mojang",
+         "version":"1.21.0",
+         "category":"Hacked Games",
+         "versionDate":"2024-02-17",
+         "banner":"https://i.playground.ru/p/SKJDE1jppyMmCwx-rmlrNg.jpeg",
+         "downloadURL":"https://github.com/apptesters-org/Repo/releases/download/11-05-2024/MinecraftPreview_1.21.0_%40thisismanpreets_apptesters.org.ipa",
+         "localizedDescription":"Исследуйте бесконечные миры и стройте все, от простейших домов до величественных замков. Играйте в творческом режиме с неограниченными ресурсами или копайте в глубинах планеты в режиме выживания, создавая оружие и броню, чтобы отбиваться от опасных мобов. Создавайте, исследуйте и выживайте вместе или играйте с друзьями на самых разных устройствах. Взбирайтесь на скалистые горы, раскапывайте сложные пещеры и разрабатывайте крупные рудные жилы. Откройте для себя биомы с пышной растительностью и пещерными отложениями. Осветите свой мир свечами, чтобы показать, какой вы опытный спелеолог и мастер альпинизма! РАЗВИВАЙТЕ СВОЮ игру: Marketplace - Знакомьтесь с последними разработками сообщества на Marketplace! Приобретайте уникальные карты, скины и текстурные пакеты от ваших любимых создателей. Команды с косой чертой - измените ход игры: вы можете раздавать предметы, призывать мобов, менять время суток и многое другое. Дополнения - С помощью бесплатных дополнений вы сможете еще больше разнообразить свой игровой процесс! Если вы больше разбираетесь в технологиях, вы можете изменить поведение, основанное на данных, в игре, чтобы создать новые пакеты ресурсов",
+         "iconURL":"https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/42/01/22/42012236-af5d-f1c1-31c2-4dd7827585dd/AppIcon-1x_U007emarketing-0-9-0-85-220.png/230x0w.webp",
+         "screenshots":[
+            "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/4c/ae/61/4cae61ed-7f91-2ee4-a0b7-f85d57682628/pr_source.png/406x228bb.png",
+            "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/48/4e/1a/484e1a3f-1a8b-fb2e-7487-52d447b9cdaa/pr_source.png/406x228bb.png",
+            "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/d3/87/f8/d387f85b-7923-3646-9023-04d41e2a0552/pr_source.png/406x228bb.png",
+            "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/da/e9/d3/dae9d3ac-8077-84a2-2e30-76a1120627cb/pr_source.png/406x228bb.png",
+            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/75/6d/db/756ddb56-91dc-dc9d-c249-b622d3a99f46/b66be1fb-63e6-48ee-b33e-201f6e5229b1_TrailsAndTales_Apple_2208x1242_EN.png/406x228bb.png",
+            "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/85/74/01/85740197-6fda-9011-7790-46657683792b/pr_source.png/406x228bb.png",
+            "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/c3/3a/d3/c33ad30b-dcfc-1314-8df2-e76f186a8705/e8534913-e159-4489-a2b2-ff14785e2ca9_LushCaves_2208x1242_GB.png/406x228bb.png",
+            "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/78/74/62/78746240-11b0-fdc6-12fe-a7200e595504/dbcfdd4e-840f-4b82-824a-4db2201f31d6_Goat_2208x1242_GB.png/406x228bb.png",
+            "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/c9/ae/53/c9ae5365-fba5-c2c6-6935-05d8c5e4f658/pr_source.png/406x228bb.png",
+            "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/e4/07/50/e407501a-a561-697c-947e-2481e010229b/pr_source.png/406x228bb.png"
+         ],
+         "contact":{
+            "web":"https://t.me/ipafilescr"
+         }
+      },
+      {
+         "name":"Brawl Stars",
+         "bundleIdentifier":"com.supercell.laser",
+         "developerName":"Supercell",
+         "version":"54.243",
+         "category":"Игры",
+         "banner":"http://klubmama.ru/uploads/posts/2022-09/1662079179_46-klubmama-ru-p-skachat-podelku-brawl-stars-foto-47.jpg",
+         "downloadURL":"https://ithunder.ru/ipa/BrawlStars.ipa",
+         "localizedDescription":"Оригинал!!! Динамичная многопользовательская игра для мобильных платформ с боями 3 на 3 и битвой на выживание! Играйте в одиночку или c друзьями в разнообразных режимах продолжительностью до трёх минут!",
+         "iconURL":"https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/65/48/f1/6548f166-1df0-4d67-97ea-ffc93ba4be00/AppIcon-1x_U007emarketing-0-6-0-85-220-0.png/246x0w.webp",
+         "screenshots":[
+            "https://www.ixpap.com/images/2023/01/Brawl-Stars-Wallpaper.jpg",
+            "https://avatars.dzeninfra.ru/get-zen_doc/1706643/pub_5e1dd882ee5a8a00b1cce50a_5e6a3f25f4235c367b771c2f/scale_1200"
+         ],
+         "contact":[
+            "https://t.me/ipafilescr"
+         ]
+      },
+      {
+         "name":"Null's Royale",
+         "bundleIdentifier":"com.supercell.laser",
+         "developerName":"Supercell",
+         "version":"5.142.17",
+         "category":"Игры",
+         "versionDate":"2024-03-19",
+         "downloadURL":"https://ithunder.ru/ipa/Royale[6.256.8].ipa",
+         "localizedDescription":"Enter the Arena! Build your Battle Deck and outsmart the enemy in fast real-time battles. From the creators of CLASH OF CLANS comes a real-time multiplayer battle game starring your favourite Clash characters and more. Start battling against players from around the world!",
+         "iconURL":"https://nulls.gg/assets/img/nr-icon.png",
+         "screenshots":[
+            "https://is1-ssl.mzstatic.com/image/thumb/PurpleVideo124/v4/a5/dd/bf/a5ddbf7b-026d-78e7-d566-6e0844337a03/Jobd2645c31-afba-4b89-b905-a2b8f76a4f90-110449446-PreviewImage_preview_image_nonvideo_sdr-Time1616769373097.png/300x0w.webp",
+            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a8/f7/9c/a8f79c24-2ad3-1601-e671-7764ebcf79b4/94735751-6595-4f19-bc81-a251e4b3e199_CR_AppleStore_picture01_1284x2778_v01.png/300x0w.webp"
+         ],
+         "contact":[
+            "https://nulls-royale.com/ios-ipa/",
+            "https://t.me/privateipa"
+         ]
+      },
+      {
+         "name":"Tap Titans 2",
+         "bundleID":"com.gamehivecorp.taptitans2",
+         "version":"6.10.0",
+         "category":"Игры",
+         "banner":"https://cdnb.artstation.com/p/assets/images/images/040/478/027/large/brandon-tumblod-battlescene3.jpg?1628973849",
+         "downloadURL":"https://github.com/apptesters-org/Repo/releases/download/08-05-2024/TapTitans2_6.10.0_Hack_%40thisismanpreets_apptesters.org.ipa",
+         "developerName":"Game Hive Corp.",
+         "localizedDescription":"Взлом! Нажмите, чтобы сыграть в одну из самых скачиваемых idle-RPG-игр с более чем 10 000 000 установок. Победитель общей премии 2016 года - Лучшая мобильная игра 2016 года по версии Best Mobile App Awards. Хватайте свой меч, собирайте команду героев и присоединяйтесь к Мастеру меча в эпическом приключении, чтобы победить могущественных Повелителей титанов на более чем 150 000 уровнях.",
+         "icon":"https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.gamehivecorp.taptitans2.png",
+         "screenshots":[
+            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/e6/4b/29/e64b29e0-0f96-58b0-178b-040f560fea41/d395bd75-5bf6-4e9d-839e-c79197603084_TT2_ASO_S1-en_Portrait_1242x2688.jpg/230x0w.webp",
+            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/75/8c/b5/758cb5bf-46bd-3c3d-4616-156019c75b7c/68704f31-2444-4ab5-9860-bb25a6bd127c_TT2_ASO_S2-en_Portrait_1242x2688.jpg/230x0w.webp",
+            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/a6/56/12/a6561252-4fd1-07df-2edc-1b40af71eac3/2fec2e34-b4ab-480b-9cbe-6a33241ba7da_TT2_ASO_S3-en_Portrait_1242x2688.jpg/230x0w.webp",
+            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/92/ef/79/92ef79f0-2701-c430-309e-70d081749c27/b7907521-cb51-4b06-a2ce-e288f640de0c_TT2_ASO_S4-en_Portrait_1242x2688.jpg/230x0w.webp"
+         ],
+         "contact":{
+            "web":"https://t.me/ipafilescr"
+         }
+      },
+      {
+         "name":"Royal Kingdom",
+         "bundleID":"com.dreamgames.royalkingdom",
+         "version":"8018",
+         "category":"Hacked Games",
+         "downloadURL":"https://github.com/apptesters-org/Repo/releases/download/09-05-2024/RoyalKingdom_8018_Hack_%40thisismanpreets_apptesters.org.ipa",
+         "developerName":"Dream Games",
+         "localizedDescription":"Взлом! Приготовьтесь стать частью славного путешествия короля Ричарда! От создателей Royal Match вас ждет совершенно новое приключение в Королевстве, в котором главную роль сыграет большая королевская семья! Вы познакомитесь с королем Ричардом, младшим братом короля Роберта, а также с очаровательными новыми персонажами, включая принцессу и Волшебника. Отправляйтесь в путешествие, чтобы построить легендарные королевства, исследовать новые земли и победить Темного короля и его армию!",
+         "icon":"https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.dreamgames.royalkingdom.png",
+         "screenshots":[
+            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/be/75/d4/be75d46d-df3d-d91d-9c45-130731be9b87/d6702efc-171c-4219-9784-324ba4939791_SS_01.png/230x0w.webp",
+            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/74/d5/4b/74d54b03-e933-b30e-88b6-de1db69b6b99/7d1c84d3-275b-4239-8de5-2eae20cc7b50_SS_02.png/230x0w.webp",
+            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/10/0b/fb/100bfb76-53c9-68eb-3ccd-e0a07a906eb2/84ea8b72-52f0-4934-8ce3-6c7a38a2cfc4_SS_03.png/230x0w.webp",
+            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/62/05/05/62050599-4036-9d2d-0c6b-2a1d246a6a81/87879dfb-c701-488a-90c0-e11317e5b52f_SS_04.png/230x0w.webp"
+         ],
+         "contact":{
+            "web":"https://t.me/ipafilescr"
+         }
+      },
+      {
+         "name":"Null’s Brawl",
+         "bundleIdentifier":"com.supercell.laser",
+         "developerName":"Null’s Brawl",
+         "version":"55.228",
+         "category":"Hacked Games",
+         "banner":"https://sm.ign.com/t/ign_za/screenshot/default/brawl-stars-blogroll_yrr2.2560.jpg",
+         "versionDate":"2024-03-19",
+         "downloadURL":"https://ithunder.ru/ipa/BrawlStars.ipa",
+         "localizedDescription":"Обновленная версия Null’s Brawl с новыми бравлерами Лили и Дракон в самом разгаре разработки. Найдены новые баги и исправлены старые, вводятся новые игровые функции в виде мутации и много-много нового контента.",
+         "iconURL":"https://nulls-brawl.ru/wp-content/uploads/2022/09/Nulls-Brawl-iOS-300x300.png",
+         "screenshots":[
+            "",
+            "",
+            "",
+            ""
+         ],
+         "contact":{
+            "web":"https://t.me/ipafilescr"
+         }
+      }
+   ],
+   "Приложения":[
+      {
+         "name":"Club Romance",
+         "bundleIdentifier":"com.yourstoryinteractive.sails.pirate.adventure",
+         "developerName":"Iroke",
+         "version":"Обновлен 05.05.24",
+         "category":"Hacked Games",
+         "banner":"https://kartinki.pics/uploads/posts/2022-12/1670535067_63-kartinkin-net-p-sekret-nebes-kartinki-oboi-66.jpg",
+         "versionDate":"2024-02-17",
+         "downloadURL":"https://ithunder.ru/ipa/iroke.ipa",
+         "Description":"Become a character in a story you’ll love! The choice is yours: - Pick your own look and style - Romance: Cute or Sexy? Bold or Shy? Guy or Girl? - What happens next? Every story has multiple endings! - Fantasy, drama, supernatural, horror, adventure, and more - Dozens of original stories with more to come Which story will you try first? - DRACULA: A LOVE STORY – Experience a whirlwind romance spanning centuries: palace secrets of the Ottoman Empire, love and loathing at the royal court, and friends and enemies whose lives span an eternity… - HEAVEN'S SECRET – You died and went to... the Angels and Demons Academy? Devilish lecturers, angelic sweethearts, and the temptation to break Heaven's rules—what else awaits you in this dangerous, fantastical afterlife? - CHASING YOU – When a routine family get-together becomes a murder scene, the race is on to find the culprit and stay out of jail! - HEART OF TRESPIA – Today, you ascend the throne of Trespia. But all is not as it seems. Embark on a journey of danger, love, and betrayal, discover the truth, and save your kingdom! - LEGEND OF THE WILLOW – On the eve of your initiation as a geisha, you discover a supernatural secret that changes everything. Now, you’re on the run, and not only from humans. - GLADIATOR CHRONICLES – Forced into slavery by the intergalactic empire of New Rome, a young gladiator’s fate hangs in the balance. Can you rise to the challenge and make the empire bow before you? ...PLUS more new stories and episodes coming soon! PRIVACY POLICY & TERMS OF SERVICE - Please read our privacy policy at http://yourstoryinteractive.com/privacy/ - By playing Romance Club, you agree to our terms of service http://yourstoryinteractive.com/terms-of-use/ SHARE YOUR STORY Like us on Facebook: https://goo.gl/TMkRZT ABOUT US Your Story Interactive is an independent game studio located in Chisinau, the capital of Moldova. Stories are our passion and storytelling is what we do. Our games are free! If you like romantic stories with choices, graphic novels, and cute characters, you'll love our games!",
+         "iconURL":"https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d5/9a/f5/d59af53e-c252-2316-130c-cd64eedb29e4/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/246x0w.webp",
+         "screenshots":[
+            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/cc/e1/e4/cce1e4ed-ef6c-4de0-6fd0-a22e2a401a99/e81733f5-31ba-43a9-94d0-cfca913729aa_1.png/230x0w.webp",
+            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/16/a6/e7/16a6e785-c63a-7a5a-ee40-d72427568ff4/f1003553-e5ec-4f3b-8c1e-dc6876df7515_7.png/230x0w.webp",
+            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/b5/15/c4/b515c451-5231-8e4b-3b95-bbe0f050778b/ecdbd34c-5faa-49a1-86b3-617501c42b4f_3.png/230x0w.webp",
+            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/f8/d2/b0/f8d2b067-c8d8-aea5-9e98-9aa80fd75311/80196326-4134-45bb-a2b9-03406658515f_2.png/230x0w.webp"
+         ],
+         "contact":{
+            "web":"https://t.me/ipafilescr"
+         }
+      },
+      {
+         "name":"GTA SA",
+         "bundleIdentifier":"com.rockstargames.gta3sa",
+         "developerName":"Rockstar Games",
+         "version":"2.02.11",
+         "category":"Игры",
+         "versionDate":"2024-02-17",
+         "downloadURL":"https://ipa.sierra.app/ipa/GTA_SANAD.ipa",
+         "localizedDescription":"Five years ago, Carl Johnson escaped from the pressures of life in Los Santos, San Andreas, a city tearing itself apart with gang trouble, drugs and corruption. Where filmstars and millionaires do their best to avoid the dealers and gangbangers.",
+         "iconURL":"https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9a/6d/77/9a6d77ba-210f-4048-906c-36c9270cd3ea/AppIcon-1x_U007emarketing-0-7-0-85-220.png/246x0w.webp",
+         "screenshots":[
+            "",
+            "",
+            "",
+            ""
+         ],
+         "contact":{
+            "web":"https://t.me/ipafilescr"
+         }
+      },
+      {
+         "name":"Homescapes",
+         "bundleIdentifier":"com.playrix.gardenscapes-sweethome",
+         "developerName":"Playrix",
+         "version":"6.9.5",
+         "category":"Tweaked Apps",
+         "versionDate":"2024-02-17",
+         "downloadURL":"https://github.com/apptesters-org/Repo/releases/download/22-03-2024/Homescapes_6.9.5_InfiniteMoves_%40thisismanpreets_apptesters.org.ipa",
+         "localizedDescription":"Welcome to Homescapes, the most heartwarming game from Playrix's Scapes™ series! Solve match-3 puzzles to restore a wonderful mansion on a verdant street. Exciting adventures start at the doorstep! Beat colorful match-3 levels to renovate and decorate rooms in the mansion, unlocking ever more chapters in the exciting family story along the way! What are you waiting for? Make yourself at home! The game features: ● Unique gameplay: help Austin renovate the house by swapping and matching pieces! ● Interior design: you decide what the house will look like. ● Exciting match-3 levels: tons of fun, featuring unique boosters and explosive combinations! ● A huge, beautiful mansion: discover all the secrets it holds! ● Fantastic characters: watch them live their lives and interact with each other in the in-game social network. ● A cute pet: meet а naughty and fluffy cat. ● Invite your Facebook friends to help you create your own cozy atmosphere in the house! Homescapes is free to play, though some in-game items can also be purchased for real money. If you don't want to use this option, simply turn it off in your device's Restrictions menu. Enjoying Homescapes? Learn more about the game! Facebook: https://www.facebook.com/homescapes/ Instagram: https://www.instagram.com/homescapes_mobile/ Questions? Contact our Tech Support by sending an email to homescapes@playrix.com or check our Web Support Portal: https://plrx.me/IXKKoAp9sh Privacy Policy: https://playrix.com/en/privacy/index.html Terms of Service: https://playrix.com/en/terms/index.html",
+         "iconURL":"https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/76/bf/34/76bf34a9-bdb8-fb7c-4056-ffd8962b68fe/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/246x0w.webp",
+         "screenshots":[
+            "",
+            "",
+            "",
+            ""
+         ],
+         "contact":{
+            "web":"https://t.me/ipafilescr"
+         }
+      },
+      {
+         "name":"CarX Drift Racing 2",
+         "bundleIdentifier":"com.carx-tech.carxdr2",
+         "developerName":"CarX Drift Racing 2",
+         "version":"1.24.1",
+         "category":"Игры",
+         "versionDate":"2024-02-17",
+         "downloadURL":"https://ipa.sierra.app/ipa/CarX-Drift-Racing-2.ipa",
+         "localizedDescription":"A SEQUEL OF THE MOST DESIRED DRIFT-GAME Over 100 000 000 fans around the world have already downloaded CarX series games. It’s your time to join! BEWARE the danger of addiction! You may not want to quit & play for hours. Taking a quick break every 40 minutes is strongly advised. ONLINE ROOMS - The game mode you’ve been waiting for! You can now drift in real time with your friends. Get together, pick a location, drift, and earn points. - Earn valuable rewards for achieving different ranks. - Watch other players drift using the drone camera. VISUAL AUTO TUNING - Replace mirrors, lights, running boards, bumpers and many other parts; - Create a unique image of your car with body kits, rims, etc.; - Use vinyls to stick out with your final result limited only by your imagination. IMPROVED PERFORMANCE TUNING - Adjust your suspension, springs, choose the right tyre air pressure, wheel angle and more; - Tune the engine, turbine pressure, gear box, brakes, locking differential. You can show some quality drift only if you have your car fine tuned to your needs. THE MOST TRUE TO LIFE RACING ON A MOBILE PLATFORM - Check out the all improved steering control perfect for quick side changing, backwards and drift donuts. We have put in over 1000 work hours to bring in the improvements; - See how tyre pressure affects driving physics. We ran a number of field tests with real drift cars to collect and analyze telemetric data to offer improved gaming; - Obtain muscle car driving experience prepared for drift tasks; - Check out how realistic the steering and the car control are on different surfaces: asphalt, sand, grass, snow; - Enjoy true to life driving on detailed tracks XDS - You will be racing twice. The first time you will race as the Leader in a tandem drift, the second time you will be racing as the Follower, actually following yourself. - For the first time in the world of video games tandem drifting is evaluated based on the CarX XDS Evaluation System which consists of 100 score points. The CarX XDS Evaluation System is designed entirely on the professional evaluation system used in real life drift competitions. - The XDS mode is a perfect opportunity to practice tandem drifting because it allows for quick swapping of cars for both the Leader and the Follower, experiment with tire pressure, try different driving trajectories for the Leader and go straight to practicing the Follower’s role right after. - XDS is your chance to prepare to compete against real racers. MULTIPLAYER - Compete against real people in online championships; - Take the first place in available league; - Race in tandems and get access to premium vehicles. CLUB RACING - Create your own club or join available clubs; - Prove it to your mates you’re the best in car drifting; - Communicate with other players and club members & share game news. IT’S THE NEXT STEP IN DRIFT-RACING SIMULATORS CarX Drift Racing 2 offers an unprecedented and realistic experience of driving real sports cars on one of many race tracks available throughout the game. PREMIUM SUBSCRIPTION: Here's what you're getting with the Premium Subscription: - Daily rewards (coins). - Increased fuel tank (by 5 points). - Increased experience after each race. - Ads off. - Free of charge restart as follower in XDS //Tandem drift// - Expanded room list in XDS //Duels//. - Free extra attempts in XDS //Duels//. Premium subscription is provided on a monthly basis. The cost of subscription in the amount of (£7.49) will be charged to your account at confirmation of purchase. Your account will be charged for renewal of your subscription automatically within 24 hours after your current subscription expires. You can turn off auto-renewal by going to your iTunes account at least 24 hours before the end of the current period. Terms of use: http://carx-online.com/ru/carx-technologies-terms-of-use/ Privacy policy: http://carx-online.com/ru/carx-technologies-privacy-policy/",
+         "iconURL":"https://ipa.sierra.app/icon/CarX-Drift-Racing-2.png",
+         "screenshots":[
+            "",
+            "",
+            "",
+            ""
+         ],
+         "contact":{
+            "web":"https://t.me/ipafilescr"
+         }
+      },
+      {
+         "name":"Car Parking",
+         "bundleIdentifier":"com.quizlet.quizlet",
+         "developerName":"Quizlet",
+         "version":"4.8.2",
+         "versionDate":"2024-02-17",
+         "category":"Игры",
+         "downloadURL":"https://ipa.sierra.app/ipa/CarParking.ipa",
+         "localizedDescription":"Car Parking Multiplayer: open-world multiplayer mode, 130+ cars, tuning, racing and free walking! Thousands of players are waiting for you. Join us! Multiplayer open world mode • Free walking. • Free open world with real gas stations and car services. • Compete against real players in the multiplayer racing. • Exchange cars with real players. • Thousands of real players every day. • Friend list. • Voice Chat. • Police mode. • Role Play: become a taxi, cargo or delivery driver. • Drone Mode: explore the world and take stunning screenshots. • Daily Tasks and Rewards: collect coins and presents by completing the tasks and joining the game. • Character customization: variety of clothes and skins to choose. • Animations: choose among dozens of animations and reactions. Car customization • Adjustable suspension, wheel angle and more. • Engine tuning: swap engine, turbo, gearbox and exhaust. • Visual auto tunings: Dynamic vinyls, car body parts. • Car Plate: choose among 6 plate types and customize it. High-quality open world • Highly-detailed environments • 130+ cars with the real interior. • Buildings with interior Amazing gameplay • 82 real-life parking and driving challenges. • Different vehicles: Tow truck, pickup, trucks, sport and classic cars.",
+         "iconURL":"https://ipa.sierra.app/icon/CarParking.png",
+         "screenshots":[
+            "",
+            "",
+            "",
+            ""
+         ],
+         "contact":{
+            "web":"https://t.me/ipafilescr"
+         }
+      },
+      {
+         "downloadURL":"https://ipa.sierra.app/ipa/ChinaTownGTA.ipa",
+         "icon":"https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/8b/6d/d3/8b6dd398-5c43-a203-bb7e-da25cccb9441/AppIcon-1x_U007emarketing-0-7-0-85-220.png/157x0w.webp",
+         "name":"GTA: CTW",
+         "screenshots":[
+            "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/e5/b2/7e/e5b27eb8-a3a6-a93f-2f8b-30d7f4fcb36c/mzl.rabtbsgc.jpg/406x228bb.jpg",
+            "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/0a/1d/93/0a1d93de-fb6e-d740-6d68-25bdc99c2259/mzl.svqfsiqu.jpg/406x228bb.jpg",
+            "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/c2/45/72/c24572e2-2f58-d45b-1075-f91e658c76c8/mzl.bfoeqryc.jpg/406x228bb.jpg",
+            "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/68/06/bf/6806bf6f-2e48-6986-1d1f-40ef774735b9/mzl.bdidzohd.jpg/406x228bb.jpg",
+            "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/bc/1c/ba/bc1cba76-cebe-35a4-9be2-750c9645cca1/mzl.dmsuhgos.jpg/406x228bb.jpg"
+         ],
+         "category":"Игры",
+         "developerName":"Rockstar Games",
+         "Version":"4.4.7",
+         "BundleID":"com.rockstargames.gtachinatownwars",
+         "Description":"Download and play up to thirty minutes as a free trial.* Purchase GTA: Chinatown Wars Full Game as a one-time, in-app purchase to play without any time limits. Following his father's murder, Huang Lee has a simple mission: deliver an ancient sword to his Uncle Kenny to ensure his family retains control of the Triad gangs of Liberty City. Huang is a spoiled rich kid who expects everything to run smoothly, but his trip does not go exactly as planned. After being robbed and left to die, he will search for honor, riches and revenge in the most dangerous and morally bankrupt city in the world. Software license terms in game and at www.rockstargames.com/eula; online account terms at www.rockstargames.com/socialclub. Non-transferable access to special features such as exclusive, unlockable, downloadable or online content, services, or functions may require single-use serial code, additional fee and/or account registration (varies 13+). Access to special features require internet connection, may not be available to all users, and may, upon 30 days notice, be terminated, modified, or offered under different terms. Violation of EULA, Code of Conduct, or other policies may result in restriction or termination of access to game or online account. For customer & tech support visit www.rockstargames.com/support. This videogame is fictional; doesn’t depict any actual event/person/entity; & any similarities are coincidental. Take-Two doesn’t endorse or encourage engaging in any conduct depicted in game. Unauthorized copying, reverse engineering, transmission, public performance, rental, pay for play, or circumvention of copy protection is strictly prohibited. *Free trial limited to one per user. Any unused portion of a free trial period will be forfeited."
+      },
+      {
+         "downloadURL":"https://ipa.sierra.app/ipa/GTA3.ipa",
+         "icon":"https://ipa.sierra.app/icon/GTA3.png",
+         "name":"GTA III",
+         "screenshots":[
+            "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/f6/31/c7/f631c769-8131-6ff4-9e8b-e09c6b76eb57/mzl.qxuebvbo.jpg/406x228bb.jpg",
+            "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/1f/ca/67/1fca67b9-033b-1682-acec-d6b07adc32f7/mzl.npkaduxy.jpg/406x228bb.jpg",
+            "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/10/94/7f/10947f5c-e673-c563-f678-89e883685328/mzl.hgnidnzn.jpg/406x228bb.jpg",
+            "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/91/4d/aa/914daa1b-a469-f918-a81c-e5121c3d921c/mzl.oavxpwia.jpg/406x228bb.jpg"
+         ],
+         "category":"Игры",
+         "developerName":"Rockstar Games",
+         "version":"1.3.13",
+         "bundleID":"com.rockstargames.gta3ios",
+         "description":"The sprawling crime epic that changed open-world games forever. Welcome to Liberty City. Where it all began. Rockstar Games celebrates the 10th anniversary of one of the most influential games of all time. The critically acclaimed blockbuster Grand Theft Auto III comes to mobile devices, bringing to life the dark and seedy underworld of Liberty City. With a massive and diverse open world, a wild cast of characters from every walk of life and the freedom to explore at will, Grand Theft Auto III puts the dark, intriguing and ruthless world of crime at your fingertips. With stellar voice acting, a darkly comic storyline, a stunning soundtrack and revolutionary open-world gameplay, Grand Theft Auto III is the game that defined the open world genre for a generation. Features: • Visually stunning updated graphics, character and vehicle models • HD quality resolution • Gameplay optimized for touch screen devices • Custom controls for the mobile platform • Countless hours of gameplay Languages Supported: English, French, Italian, German, Spanish and Japanese. Universal App: Grand Theft Auto III is supported on iPhone 4, iPhone 5, iPhone 4S, iPod Touch 4, iPod Touch 5, iPad 1, iPad 2, iPad 3rd Generation, iPad 4th Generation, and iPad Mini. For optimal performance, we recommend re-booting your device after downloading and closing other applications when playing Grand Theft Auto III: 10 Year Anniversary Edition. Port developed by War Drum Studios http://www.wardrumstudios.com"
+      },
+      {
+         "downloadURL":"https://ipa.sierra.app/ipa/GTAVICE.ipa",
+         "icon":"https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/57/01/fd/5701fd72-a6a2-35db-0710-30a0fb014cc6/AppIcon-0-1x_U007emarketing-85-220-4.png/157x0w.webp",
+         "name":"GTA Vice City",
+         "screenshots":[
+            "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/e1/93/81/e19381cd-2a00-159c-25ef-3d92cbe391c5/mzl.uwdhrdbf.jpg/406x228bb.jpg",
+            "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/b3/dd/9b/b3dd9bdf-0b32-4573-1a09-6b836f74219f/mzl.obxsivpn.jpg/406x228bb.jpg",
+            "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/f3/90/51/f39051dd-a543-3991-ce72-824a2628a451/mzl.xnjskmtc.jpg/406x228bb.jpg",
+            "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/f3/bc/4c/f3bc4ca6-e4f8-23a2-e618-fe3aed84b3b2/mzl.rqxmgtmf.jpg/406x228bb.jpg"
+         ],
+         "category":"Игры",
+         "developerName":"Rockstar Games",
+         "version":"1.5.6",
+         "bundleID":"com.rockstargames.gta3vc",
+         "description":"Welcome back to Vice City. Welcome back to the 1980s. From the decade of big hair, excess and pastel suits comes a story of one man's rise to the top of the criminal pile. Vice City, a huge urban sprawl ranging from the beach to the swamps and the glitz to the ghetto, was one of the most varied, complete and alive digital cities ever created. Combining open-world gameplay with a character driven narrative, you arrive in a town brimming with delights and degradation and given the opportunity to take it over as you choose. To celebrate its 10 year anniversary, Rockstar Games brings Grand Theft Auto: Vice City to mobile devices with high-resolution graphics, updated controls and a host of new features including: • Beautifully updated graphics, character models and lighting effects • New, precisely tailored firing and targeting options • Custom controls with a fully customizable layout • iCloud save game support • Massive campaign with countless hours of gameplay • Support for Retina display devices • Custom iTunes Playlist* *To listen to your custom playlist, simply create a playlist titled “VICECITY”, launch the game, and select the radio station “Tape Deck” Universal App: Grand Theft Auto: Vice City is supported on iPhone 4, iPhone 4S, iPhone 5, all iPad models and 4th and 5th generation iPod Touch. For optimal performance, we recommend re-booting your device after downloading and closing other applications when playing Grand Theft Auto: Vice City. Languages Supported: English, French, Italian, German, Spanish, Korean, Russian, and Japanese. Mobile Version developed by War Drum Studios www.wardrumstudios.com Find out more: www.rockstargames.com See videos: www.youtube.com/rockstargames Follow us: www.faceboook.com/rockstargames www.twitter.com/rockstargames"
+      },
+      {
+         "downloadURL":"https://github.com/apptesters-org/Repo/releases/download/25-12-2023/GTAIII-Definitive_1.0_%40thisismanpreets_apptesters.org.ipa",
+         "icon":"https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d0/de/ac/d0deac23-74cf-5be6-a240-fe8df375c6b4/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/157x0w.webp",
+         "name":"GTA III Definitive Edition",
+         "screenshots":[
+            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/7e/7c/c5/7e7cc5a0-52b2-57c3-32a0-c0cc35989865/f25cabb3-865a-4f5a-9c7f-acc01edd6ff7_iPhone_GTATrilogy_GTA3_HUD_1_resize.png/313x0w.webp",
+            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/ee/2f/26/ee2f2665-3d23-e13c-2a7c-45b75c980218/205df841-d8f0-4163-96c6-8ca3ca78bd6b_iPhone_GTATrilogy_GTA3_5__resize.png/313x0w.webp",
+            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/37/7d/77/377d774f-6394-0b8c-33e1-ea6d998f490d/8cffe42f-6820-4bf0-b1aa-a29001d7db66_iPhone_GTATrilogy_GTA3_HUD_2_resize.png/313x0w.webp",
+            "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/f3/bc/4c/f3bc4ca6-e4f8-23a2-e618-fe3aed84b3b2/mzl.rqxmgtmf.jpg/406x228bb.jpg"
+         ],
+         "category":"Игры",
+         "version":"1.0",
+         "developerName":"Rockstar Games",
+         "bundleID":"com.rockstargames.gta3.de",
+         "description":"Welcome back to Vice City. Welcome back to the 1980s. From the decade of big hair, excess and pastel suits comes a story of one man's rise to the top of the criminal pile. Vice City, a huge urban sprawl ranging from the beach to the swamps and the glitz to the ghetto, was one of the most varied, complete and alive digital cities ever created. Combining open-world gameplay with a character driven narrative, you arrive in a town brimming with delights and degradation and given the opportunity to take it over as you choose. To celebrate its 10 year anniversary, Rockstar Games brings Grand Theft Auto: Vice City to mobile devices with high-resolution graphics, updated controls and a host of new features including: • Beautifully updated graphics, character models and lighting effects • New, precisely tailored firing and targeting options • Custom controls with a fully customizable layout • iCloud save game support • Massive campaign with countless hours of gameplay • Support for Retina display devices • Custom iTunes Playlist* *To listen to your custom playlist, simply create a playlist titled “VICECITY”, launch the game, and select the radio station “Tape Deck” Universal App: Grand Theft Auto: Vice City is supported on iPhone 4, iPhone 4S, iPhone 5, all iPad models and 4th and 5th generation iPod Touch. For optimal performance, we recommend re-booting your device after downloading and closing other applications when playing Grand Theft Auto: Vice City. Languages Supported: English, French, Italian, German, Spanish, Korean, Russian, and Japanese. Mobile Version developed by War Drum Studios www.wardrumstudios.com Find out more: www.rockstargames.com See videos: www.youtube.com/rockstargames Follow us: www.faceboook.com/rockstargames www.twitter.com/rockstargames"
+      },
+      {
+         "name":"HouseFlipper Mod",
+         "bundleID":"com.imaginalis.HouseFlipperMobile",
+         "version":"1.380.2",
+         "category":"Игры",
+         "downloadURL":"https://github.com/apptesters-org/Repo/releases/download/27-03-2024/HouseFlipper_1.380.2_UnlimitedCash_%40thisismanpreets_apptesters.org.ipa",
+         "developerName":"PLAYWAY SPOLKA AKCYJNA",
+         "description":"Вы когда-нибудь мечтали открыть собственную компанию по ремонту домов? House Flipper – лучшая бесплатная единоличная ремонтная бригада на рынке. Станьте архитектором и дизайнером интерьеров одновременно и откройте свое дело. Выполняйте заказы, ремонтируйте, оформляйте интерьеры домов, а потом продавайте их с прибылью! Получайте новые скины для своих инструментов.",
+         "icon":"https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ab/6b/d5/ab6bd571-4c6f-ac2c-a098-4ce82321ec51/AppIcon-1x_U007emarketing-0-4-85-220-0.png/246x0w.webp",
+         "screenshots":[
+            "",
+            "",
+            "",
+            ""
+         ],
+         "contact":{
+            "web":"https://t.me/ipafilescr"
+         }
+      },
+      {
+         "name":"X",
+         "bundleID":"com.atebits.Tweetie2",
+         "version":"10.34",
+         "category":"Социальные сети",
+         "down":"https://github.com/apptesters-org/Repo/releases/download/25-03-2024/X_10.34_BHTwitter_4.3_%40thisismanpreets_apptesters.org.ipa",
+         "developerName":"X (Twitter)",
+         "description":"Вшит BHTwitter 4.3",
+         "icon":"https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/12/43/25/1243253a-282f-ad99-41f0-02fbbe9c4beb/ProductionAppIcon-0-0-1x_U007emarketing-0-7-0-0-0-85-220.png/246x0w.webp",
+         "screenshots":[
+            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c6/9a/1e/c69a1e36-7f54-1343-b897-a30168b89d2d/1ac3a819-4ea5-46a3-b878-14fd3598fc6c_iPhone_6.5_-_4.png/230x0w.webp",
+            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/50/ad/14/50ad14d2-2fa8-7f37-79a3-6adf001d6908/21bccaa7-2250-4b87-974e-a9193998650a_iPhone_6.5_-_1.png/230x0w.webp",
+            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/31/07/94/310794f3-b051-92e0-628b-06a14882b1a0/4d6982ef-6690-4c44-b7ad-bae8f2af0808_iPhone_6.5_-_2.png/230x0w.webp",
+            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/08/26/70/082670d6-2641-d112-843c-c6ebb6a38dd5/6ca67f70-9913-44ff-b14a-3703ecafaee9_iPhone_6.5_-_3.png/230x0w.webp"
+         ],
+         "contact":{
+            "web":"https://t.me/ipafilescr"
+         }
+      },
+      {
+         "name":"Age Of Magic",
+         "bundleID":"com.playkot.ageofmagic",
+         "version":"2.19.0",
+         "down":"https://github.com/apptesters-org/Repo/releases/download/05-04-2024/AgeofMagic_2.19.0_HackFeatures_%40thisismanpreets_apptesters.org.ipa",
+         "developerName":"Playkot Limited",
+         "category":"Игры",
+         "localizedDescription":"Присоединяйся к эпическому сражению Истинных Магов за судьбу мира. Собирай и прокачивай легендарных героев, чтобы взять их в захватывающие поединки на ошеломительных аренах. Кобольды, Эльфы, Демоны, Драконий Народ, Ра’Ахни, Болотные Ведьмы и Убийцы и даже разъяренный Енот-Волшебник — десятки персонажей разных фракций ждут!",
+         "icon":"https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/68/64/e2/6864e2c3-1da4-f703-caf8-0469a458530d/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/246x0w.webp",
+         "screenshots":[
+            "",
+            "",
+            "",
+            ""
+         ],
+         "contact":{
+            "web":"https://t.me/ipafilescr"
+         }
+      },
+      {
+         "name":"Oxide: Survival Island",
+         "bundleID":"com.catsbit.oxidesurvivalisland",
+         "version":"0.4.40",
+         "category":"Игры",
+         "downloadURL":"https://github.com/apptesters-org/Repo/releases/download/14-02-2024/OxideSurvivalIsland_0.4.40_HackFeatures_%40thisismanpreets_apptesters.org.ipa",
+         "developerName":"Wladyslaw Jewloszewicz",
+         "localizedDescription":"Oxide: Survival Island - новая игра, основанная на Survival Simulator!",
+         "icon":"https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ae/fb/b5/aefbb576-82eb-247d-ad16-045f80b0ac7b/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/246x0w.webp",
+         "screenshots":[
+            "",
+            "",
+            "",
+            ""
+         ],
+         "contact":{
+            "web":"https://t.me/ipafilescr"
+         }
+      },
+      {
+         "name":"Truckers of Europe 3",
+         "bundleID":"com.WandaSoftware.TruckersofEurope3",
+         "version":"0.45.3",
+         "category":"Игры",
+         "downloadURL":"https://github.com/apptesters-org/Repo/releases/download/19-04-2024/TruckersofEurope3_0.45.3_Satella_%40thisismanpreets_apptesters.org.ipa",
+         "developerName":"Yalcin Senturk",
+         "localizedDescription":"Truckers of Europe 3 features lots of european trucks with lots of chassis configurations, customizations and cosmetics.",
+         "icon":"https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f2/c2/b9/f2c2b9b0-956c-6750-0fde-2093302c0d38/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.webp",
+         "screenshots":[
+            "",
+            "",
+            "",
+            ""
+         ],
+         "contact":{
+            "web":"https://t.me/ipafilescr"
+         }
+      },
+      {
+         "name":"Raid: Shadow Legends",
+         "bundleID":"com.plarium.raidlegends",
+         "version":"8.50.0",
+         "category":"Игры",
+         "banner":"https://1lag.com/wp-content/uploads/2023/12/pasted-image-0-5-1-1.png",
+         "downloadURL":"https://github.com/apptesters-org/Repo/releases/download/09-05-2024/Raid_8.50.0_Hack_%40thisismanpreets_apptesters.org.ipa",
+         "developerName":"Plarium Global Ltd",
+         "localizedDescription":"Взлом! Пройдите свой путь в потрясающей реалистичной фэнтезийной RPG с сотнями чемпионов из 15 игровых фракций.Чтобы спасти мир Телерии, вы наберете самых легендарных воинов из сил Света и Тьмы. Вы должны научить их сражаться вместе, превратить их в живое оружие и собрать величайший отряд рейдеров, который когда-либо видел мир.",
+         "icon":"https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.plarium.raidlegends.png",
+         "screenshots":[
+            "",
+            "",
+            "",
+            ""
+         ],
+         "contact":{
+            "web":"https://t.me/ipafilescr"
+         }
+      },
+      {
+         "name":"Royal Match",
+         "bundleID":"com.dreamgames.royalmatch",
+         "version":"20500",
+         "category":"Игры",
+         "downloadURL":"https://github.com/apptesters-org/Repo/releases/download/20-03-2024/RoyalMatch_20500_Satella_%40thisismanpreets_apptesters.org.ipa",
+         "developerName":"Dream Games",
+         "localizedDescription":"Помогите королю Роберту восстановить былую славу замка! Разбивайте препятствия и используйте мощные усилители, чтобы проходить увлекательные напряжённые уровни! С каждым захватывающим уровнем вас ждут новые удивительные территории! Начните своё весёлое приключение прямо сейчас!",
+         "icon":"https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f9/20/c9/f920c9aa-aaec-a912-a7b1-d96a20c67da1/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/246x0w.webp",
+         "screenshots":[
+            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/06/5a/4c/065a4c16-dd16-cbea-4b0e-b69212ab4494/7eaa999e-c41f-4a64-97ed-c5887f40eb55_iphone_xs_max_new.jpg/230x0w.webp",
+            "https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/06/e6/0a/06e60acd-5752-9d05-ecf7-c61c07bda8f4/ee476e80-220d-486d-8418-5bc3bf1875f3_4_Russian_Dining_Iphone_XS_Max.jpg/230x0w.webp",
+            "https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/97/01/39/9701397f-b57b-cda7-5c02-319b5a5ba224/627cf935-50f0-4425-8282-66a49fcaa2fb_3_Russian_Level_2_Iphone_XS_Max.jpg/230x0w.webp",
+            "https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/f7/a7/8e/f7a78ec4-da37-c033-ca41-83aa030ef051/49249560-1fcf-4a1f-8446-667aa28f1893_2_Russian_Garden_Iphone_XS_Max.jpg/230x0w.webp"
+         ],
+         "contact":{
+            "web":"https://t.me/ipafilescr"
+         }
+      },
+      {
+         "name":"VPN Satoshi Pro",
+         "bundleID":"com.vpnsatoshi.vpnsatoshiapp",
+         "version":"2.4",
+         "category":"VPN PRO",
+         "downloadURL":"https://github.com/apptesters-org/Repo/releases/download/13-01-2024/VPNSatoshi_2.4__ProFutureUnlocked_%40thisismanpreets_apptesters.org.ipa",
+         "developerName":"VPN Satoshi LLC",
+         "localizedDescription":"Децентрализованный, Безопасный и Быстрый VPN на блокчейне Cosmos",
+         "icon":"https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cd/54/36/cd5436b5-05bd-d64e-9710-949e6e7344d6/AppIcon-0-0-85-220-0-0-4-0-2x.png/246x0w.webp",
+         "screenshots":[
+            "",
+            "",
+            "",
+            ""
+         ],
+         "contact":{
+            "web":"https://t.me/moxkios"
+         }
+      },
+      {
+         "name":"Farming Simulator 20",
+         "bundleID":"com.giants-software.fs20plus",
+         "version":"1.1.14",
+         "category":"Игры",
+         "downloadURL":"https://github.com/apptesters-org/Repo/releases/download/25-12-2023/FarmingSimulator20%2B_1.1.14_%40thisismanpreets_apptesters.org.ipa",
+         "developerName":"GIANTS Software GmbH",
+         "localizedDescription":"Откройте для себя увлекательный мир фермерства с Farming Simulator 20! Собирайте урожай различных культур и заботьтесь о свиньях, коровах и овцах. Теперь вы даже можете завести лошадей и исследовать на них земли вокруг своей фермы. Следите за динамикой рынка, чтобы выгодно продать свои товары, прикупить новую технику и расширить свои угодья.",
+         "icon":"https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/03/3d/bd/033dbd6d-b521-8cac-567a-21d165c7fe05/AppIcon-1x_U007emarketing-0-10-0-85-220.png/246x0w.webp",
+         "screenshots":[
+            "",
+            "",
+            "",
+            ""
+         ],
+         "contact":{
+            "web":"https://t.me/ipafilescr"
+         }
+      },
+      {
+         "name":"ChatAI",
+         "bundleID":"com.chatbot.aichatapp",
+         "bundleIdentifier":"com.chatbot.aichatapp",
+         "version":"1.2.4",
+         "category":"Приложения",
+         "down":"https://github.com/apptesters-org/Repo/releases/download/20-03-2024/ChatAI_1.2.4_Satella_%40thisismanpreets_apptesters.org.ipa",
+         "developerName":"GPT",
+         "localizedDescription":"Премиум",
+         "icon":"https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d5/4a/22/d54a2213-204c-5e18-2a9a-0aa356c13d0b/AppIcon-0-0-1x_U007epad-0-10-0-85-220.png/246x0w.webp",
+         "screenshots":[
+            "",
+            "",
+            "",
+            ""
+         ],
+         "contact":{
+            "web":"https://t.me/ipafilescr"
+         }
+      },
+      {
+         "name":"VPNProxyMaster",
+         "bundleIdentifier":"co.allconnected.vpnmaster",
+         "developerName":"ALL Connected Co.,Ltd",
+         "version":"5.2.3",
+         "category":"Приложения",
+         "downloadURL":"https://github.com/apptesters-org/Repo/releases/download/18-01-2024/VPNProxyMaster_6.7.2_ProFeaturesUnlocked_%40thisismanpreets_apptesters.org.ipa",
+         "localizedDescription":"VPN Master-быстрее, более гладкой и проще в использовании. Это лучший прокси VPN-клиент для безопасности WiFi hotspot и защиты частной жизни.",
+         "iconURL":"https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1e/2e/ad/1e2eadcc-7261-f99d-c415-0c55284e8aae/AppIcon-0-0-1x_U007emarketing-0-4-0-0-85-220.png/246x0w.webp",
+         "screenshots":[
+            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2a/7d/c8/2a7dc854-8a8d-2371-6d82-d8c0a89b343d/a894b378-0121-49eb-ab1b-85214d77a54f_01.jpg/230x0w.webp",
+            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cf/1e/23/cf1e23e2-2cbc-4871-8e42-5fe3de9aa3c3/6f1d617e-4e80-41db-9357-90856a5e6688_02.jpg/230x0w.webp",
+            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c3/a9/af/c3a9af45-7786-40c5-0ace-4710f103b093/67b5cf48-a47e-423b-84fa-d741eebe86a8_03.jpg/230x0w.webp",
+            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/de/8e/c1/de8ec112-f91a-b9f1-bb66-b6d976c78c7b/13897617-0eb5-4aba-8f3e-b9c139879c8f_04.jpg/230x0w.webp"
+         ],
+         "contact":{
+            "web":"https://t.me/ipafilescr"
+         }
+      },
+      {
+         "name":"Alight Motion Pro",
+         "bundleIdentifier":"com.alightcreative.motion",
+         "developerName":"Alight Motion",
+         "version":"6.2.4",
+         "category":"Редакторы",
+         "versionDate":"2024-02-17",
+         "downloadURL":"https://ipa.sierra.app/ipa/AlightMotion.ipa",
+         "localizedDescription":"Alight Motion Premium\n\n- \u0410\u043a\u0442\u0438\u0432\u0438\u0440\u043e\u0432\u0430\u043d\u0430 \u043f\u043e\u0434\u043f\u0438\u0441\u043a\u0430",
+         "iconURL":"https://static.teledb.net/DcbCBF9Cae8d9C0a7bD9d1A5BCE764ea/thumbnail_2024-02-17_06-19-44_7336436292034494472.jpg",
+         "screenshots":[
+            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/3a/f4/13/3af41371-60a1-7d0c-0d81-30e66cc0157a/810a6bd2-9961-4b28-852e-8c5f9bdbeb87_iPhone_6.5_screenshot_keyframeanimation.png/230x0w.webp",
+            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/be/39/e9/be39e987-647a-0caf-ecb0-1745c5c2d782/193243da-ef76-4858-8bc2-20320b5f59ab_iPhone_6.5_screenshot_camera.png/230x0w.webp",
+            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/84/58/53/845853e2-2cd4-a616-b43e-beebf9259bcd/bf3b770b-4f72-44e6-bbd4-030dc4ad3aa9_iPhone_6.5_screenshot_layerparenting.png/230x0w.webp",
+            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/31/1a/a7/311aa7cc-2ff3-aef5-9371-d2d00fbd6b35/961fff56-7167-44aa-af81-8251dbcf57df_iPhone_6.5_screenshot_color.png/230x0w.webp"
+         ],
+         "contact":{
+            "web":"https://t.me/ipafilescr"
+         }
+      },
+      {
+         "name":"",
+         "category":"Tweaked Apps",
+         "iconURL":"https://avatars.mds.yandex.net/i?id=1744a574e4b3bb19c0d289e066a0cc1d1af66c33-12627978-images-thumbs&n=13"
+      }
+   ]
+}
